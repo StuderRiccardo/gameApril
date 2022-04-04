@@ -1,4 +1,2 @@
-import GameArea from "./GameArea";
-import Level1 from "./level1";
-import Levels from ".Levels"
+import GameArea from "./GameArea.js";
 let myGameArea = new GameArea();
